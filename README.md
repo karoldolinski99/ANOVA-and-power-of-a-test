@@ -1,1 +1,1 @@
-# ANOVA-and-power-of-a-test
+# ANOVA and power of normality tests
