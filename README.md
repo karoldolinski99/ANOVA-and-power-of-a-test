@@ -1,0 +1,1 @@
+# ANOVA-and-power-of-a-test
